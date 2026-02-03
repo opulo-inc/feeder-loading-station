@@ -32,6 +32,8 @@ fp-info-cache
 *.ses
 **/*-backups/*.zip
 *.kicad_prl
+*.step
+*.stp
 
 # FREECAD
 

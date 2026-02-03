@@ -1,0 +1,32 @@
+connectors:
+
+  C1:
+    type: JST PH
+    subtype: female
+    pinlabels: [GND, VDC, A, B]
+    image:
+      src: ../lib/PH-4.jpeg
+      caption: JST PH 4-pin
+    
+  C2:
+    type: JST PH
+    subtype: female
+    pinlabels: [GND, VDC, A, B]
+    image:
+      src: ../lib/PH-4.jpeg
+      caption: JST PH 4-pin
+
+cables:
+  W1:
+    wirecount: 4
+    length: 0.070
+    gauge: 24 AWG
+    show_equiv: true
+    colors: [BK, RD, YE, BU]
+    notes: Black Ribbon - Silicone
+
+connections:
+  -
+    - C1: [1-4]
+    - W1: [1-4]
+    - C2: [1-4]
