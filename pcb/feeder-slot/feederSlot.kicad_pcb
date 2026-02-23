@@ -1479,7 +1479,7 @@
 	(footprint "index:logo"
 		(layer "B.Cu")
 		(uuid "d94dddff-fb67-47f7-ae30-53918454eec9")
-		(at 26 29.3 180)
+		(at 26.95 48.8 180)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
@@ -1697,7 +1697,7 @@
 		(layer "Edge.Cuts")
 		(uuid "e3869a44-b685-4ae7-a413-6dad0a965b98")
 	)
-	(gr_text "Feeder Slot\nREV00b0"
+	(gr_text "Feeder Slot\nREV00"
 		(at 32.6 25.9 270)
 		(layer "F.SilkS")
 		(uuid "6e62385a-8df4-43d8-8fbc-b05cd0230f76")

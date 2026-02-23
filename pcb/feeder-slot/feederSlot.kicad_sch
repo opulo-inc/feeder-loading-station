@@ -1885,6 +1885,14 @@
 				)
 			)
 		)
+		(property "LCSC" "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS28E07P-T/5396365"
+			(at 125.73 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0763e987-2ac7-43c4-84dd-59d3fbf35650")
 		)
@@ -1905,9 +1913,9 @@
 		(at 168.91 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "6746cdd9-d090-474e-85b6-c1314580d10c")
 		(property "Reference" "R2"
 			(at 170.4086 132.1816 0)
@@ -2055,6 +2063,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C2845453"
+			(at 130.175 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
